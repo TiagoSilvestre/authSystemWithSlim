@@ -1,4 +1,6 @@
-# Sistema de login em PHP, utilizando Slim, Twig, Eloquent e unas cositas mas.
+# Sistema de login em PHP
+
+- Utilizando Slim, Twig, Eloquent e entre outros.
 
 ## Inclui:
 
